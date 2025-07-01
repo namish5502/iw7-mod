@@ -32,7 +32,7 @@ namespace branding
 				return;
 			}
 
-			localized_strings::override("LUA_MENU_LEGAL_COPYRIGHT", "IW7-MOD");
+			localized_strings::override("LUA_MENU_LEGAL_COPYRIGHT", "");
 
 			//localized_strings::override("MENU_SP_CAMPAIGN", "IW7-MOD: CAMPAIGN");
 			//localized_strings::override("LUA_MENU_MULTIPLAYER_CAPS", "IW7-MOD: MULTIPLAYER");
